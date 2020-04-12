@@ -7,7 +7,6 @@ Growth Mindset is the process of imporving personal intellectual qualities throu
 * Get inspired by success of others
 
 ![GitHub Logo](http://dgt.co.za/wp-content/uploads/2018/05/header-image_heads.png)
-Format: ![Growth Mindset](http://dgt.co.za/wp-content/uploads/2018/05/header-image_heads.png)
 
 
 # About Me
