@@ -1,7 +1,10 @@
 # Growth Mindset
-#bushra
-###my first repo
-You can use the [editor on GitHub](https://github.com/bushra1991/my-first-repo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Growth Mindset is the process of imporving personal intellectual qualities through the ongoing learning. 
+
+## Three reminders to maintain growth mindset: 
+* Accept challenges
+* Learns from obstacles and criticism
+* Get inspired by success of others
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
