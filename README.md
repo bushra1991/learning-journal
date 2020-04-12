@@ -8,3 +8,9 @@ Growth Mindset is the process of imporving personal intellectual qualities throu
 
 ![GitHub Logo](http://dgt.co.za/wp-content/uploads/2018/05/header-image_heads.png)
 Format: ![Growth Mindset](http://dgt.co.za/wp-content/uploads/2018/05/header-image_heads.png)
+
+
+# About Me
+** My name is _Bushra_, I am taking a course in web development which I find interesting **
+
+* To access my portfolio on Github click [Here](https://github.com/bushra1991/)*
