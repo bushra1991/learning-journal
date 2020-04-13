@@ -15,20 +15,11 @@ Growth Mindset is the process of imporving personal intellectual qualities throu
 *To access my portfolio on Github click [Here](https://github.com/bushra1991/)*
 
 
-# ToC
-[About Me](aboutme.md)
+Topics | Links
+------------ | -------------
+My personal Info | [About Me](aboutme.md)
+HTML Tags | [HTML](HTML.md)
+Terminals | [comands](terminal.md)
+Markdown | [tags](markdown.md)
 
-
-| class | Date |
-| ----- | ---- |
-| class1 | 11Aprl |
-| class2 | 12Aprl |
-| class3 | 13Aprl |
-
-
-| class | Day |
-| ----- | ---- |
-| class1 | sat |
-| class2 | sun |
-| class3 | mon |
 
