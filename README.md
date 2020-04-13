@@ -13,3 +13,12 @@ Growth Mindset is the process of imporving personal intellectual qualities throu
 **My name is _Bushra_, I am taking a course in web development which I find interesting**
 
 *To access my portfolio on Github click [Here](https://github.com/bushra1991/)*
+
+
+
+
+| class | Date |
+| ----- | ---- |
+| class1 | 11Aprl |
+| class2 | 12Aprl |
+| class3 | 13Aprl |
